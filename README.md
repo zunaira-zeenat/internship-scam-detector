@@ -77,7 +77,7 @@ The project includes a simple **Gradio web interface** where users can:
 * View the prediction
 * View scam risk
 * Read an explanation
-* ![Internship Scam Detector](Screenshot .png)
+* ![Internship Scam Detector](Screenshot 2026-09-15 012415 .png)
 
 ## 📁 Project Structure
 
